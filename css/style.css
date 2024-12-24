@@ -11180,8 +11180,8 @@ a.text-dark:focus {
     font-family: "Font Awesome 5 Free";
     font-weight: 400;
     position: absolute;
-    top: calc(50% - 10px);
-    left: calc(50% - 8px);
+    top: calc(50% - 12px);
+    left: calc(50% - 10px);
     color: #E47A2E;
     z-index: 2;
   }
@@ -11375,8 +11375,8 @@ a.text-dark:focus {
     font-family: "Font Awesome 5 Free";
     font-weight: 400;
     position: absolute;
-    top: calc(50% - 10px);
-    left: calc(50% - 8px);
+    top: calc(50% - 12px);
+    left: calc(50% - 10px);
     color: #E47A2E;
     z-index: 2;
   }
