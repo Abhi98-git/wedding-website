@@ -47,6 +47,7 @@ html {
   line-height: 1.15;
   -webkit-text-size-adjust: 100%;
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  scroll-behavior: smooth;
 }
 
 article,
@@ -96,6 +97,21 @@ h6 {
 p {
   margin-top: 0;
   margin-bottom: 1rem;
+}
+
+/* Navbar active link styles */
+.navbar-nav .nav-link {
+  color: #ffffff; /* Default color */
+  transition: color 0.3s ease;
+}
+
+.navbar-nav .nav-link:hover {
+  color: #ffc107; /* Hover color */
+}
+
+.navbar-nav .nav-link.active {
+  color: #ff5722; /* Active link color */
+  font-weight: bold; /* Highlight active link */
 }
 
 abbr[title],
