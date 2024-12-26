@@ -31,8 +31,8 @@ Welcome to the **Wedding Website** repository! 🎉 This project showcases a bea
 Contributors
 
     ```markdown
-   - **[Abhisek Sahoo]** - Creator and Developer
-   - **[Rajosee Banerjee]** - Designer
+   - **[Abhisek Sahoo]** 
+   - **[Rajosee Banerjee]**
 
 
 
